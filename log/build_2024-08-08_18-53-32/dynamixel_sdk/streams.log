@@ -1,0 +1,45 @@
+[0.075s] Invoking command in '/home/gabrielolin/turtlebot3_ws/build/dynamixel_sdk': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/gabrielolin/turtlebot3_ws/build/dynamixel_sdk -- -j2 -l2
+[0.855s] [35m[1mConsolidate compiler generated dependencies of target dynamixel_sdk[0m
+[1.129s] [ 10%] [32mBuilding CXX object CMakeFiles/dynamixel_sdk.dir/src/dynamixel_sdk/protocol2_packet_handler.cpp.o[0m
+[3.495s] [ 20%] [32mBuilding CXX object CMakeFiles/dynamixel_sdk.dir/src/dynamixel_sdk/port_handler_linux.cpp.o[0m
+[3.959s] [ 30%] [32m[1mLinking CXX shared library libdynamixel_sdk.so[0m
+[4.898s] [100%] Built target dynamixel_sdk
+[4.966s] Invoked command in '/home/gabrielolin/turtlebot3_ws/build/dynamixel_sdk' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/gabrielolin/turtlebot3_ws/build/dynamixel_sdk -- -j2 -l2
+[5.956s] Invoking command in '/home/gabrielolin/turtlebot3_ws/build/dynamixel_sdk': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/gabrielolin/turtlebot3_ws/build/dynamixel_sdk
+[6.036s] -- Install configuration: ""
+[6.038s] -- Up-to-date: /home/gabrielolin/turtlebot3_ws/install/dynamixel_sdk/include/
+[6.038s] -- Up-to-date: /home/gabrielolin/turtlebot3_ws/install/dynamixel_sdk/include//dynamixel_sdk
+[6.044s] -- Up-to-date: /home/gabrielolin/turtlebot3_ws/install/dynamixel_sdk/include//dynamixel_sdk/port_handler_arduino.h
+[6.045s] -- Up-to-date: /home/gabrielolin/turtlebot3_ws/install/dynamixel_sdk/include//dynamixel_sdk/port_handler.h
+[6.045s] -- Up-to-date: /home/gabrielolin/turtlebot3_ws/install/dynamixel_sdk/include//dynamixel_sdk/port_handler_windows.h
+[6.045s] -- Up-to-date: /home/gabrielolin/turtlebot3_ws/install/dynamixel_sdk/include//dynamixel_sdk/group_bulk_read.h
+[6.045s] -- Up-to-date: /home/gabrielolin/turtlebot3_ws/install/dynamixel_sdk/include//dynamixel_sdk/dynamixel_sdk.h
+[6.045s] -- Up-to-date: /home/gabrielolin/turtlebot3_ws/install/dynamixel_sdk/include//dynamixel_sdk/protocol2_packet_handler.h
+[6.045s] -- Up-to-date: /home/gabrielolin/turtlebot3_ws/install/dynamixel_sdk/include//dynamixel_sdk/group_bulk_write.h
+[6.045s] -- Up-to-date: /home/gabrielolin/turtlebot3_ws/install/dynamixel_sdk/include//dynamixel_sdk/protocol1_packet_handler.h
+[6.045s] -- Up-to-date: /home/gabrielolin/turtlebot3_ws/install/dynamixel_sdk/include//dynamixel_sdk/port_handler_mac.h
+[6.045s] -- Up-to-date: /home/gabrielolin/turtlebot3_ws/install/dynamixel_sdk/include//dynamixel_sdk/port_handler_linux.h
+[6.045s] -- Up-to-date: /home/gabrielolin/turtlebot3_ws/install/dynamixel_sdk/include//dynamixel_sdk/group_sync_read.h
+[6.045s] -- Up-to-date: /home/gabrielolin/turtlebot3_ws/install/dynamixel_sdk/include//dynamixel_sdk/group_sync_write.h
+[6.046s] -- Up-to-date: /home/gabrielolin/turtlebot3_ws/install/dynamixel_sdk/include//dynamixel_sdk/packet_handler.h
+[6.053s] -- Installing: /home/gabrielolin/turtlebot3_ws/install/dynamixel_sdk/lib/libdynamixel_sdk.so
+[6.054s] -- Up-to-date: /home/gabrielolin/turtlebot3_ws/install/dynamixel_sdk/share/dynamixel_sdk/environment/library_path.sh
+[6.054s] -- Up-to-date: /home/gabrielolin/turtlebot3_ws/install/dynamixel_sdk/share/dynamixel_sdk/environment/library_path.dsv
+[6.054s] -- Up-to-date: /home/gabrielolin/turtlebot3_ws/install/dynamixel_sdk/share/ament_index/resource_index/package_run_dependencies/dynamixel_sdk
+[6.055s] -- Up-to-date: /home/gabrielolin/turtlebot3_ws/install/dynamixel_sdk/share/ament_index/resource_index/parent_prefix_path/dynamixel_sdk
+[6.055s] -- Installing: /home/gabrielolin/turtlebot3_ws/install/dynamixel_sdk/share/dynamixel_sdk/environment/ament_prefix_path.sh
+[6.057s] -- Up-to-date: /home/gabrielolin/turtlebot3_ws/install/dynamixel_sdk/share/dynamixel_sdk/environment/ament_prefix_path.dsv
+[6.058s] -- Installing: /home/gabrielolin/turtlebot3_ws/install/dynamixel_sdk/share/dynamixel_sdk/environment/path.sh
+[6.061s] -- Up-to-date: /home/gabrielolin/turtlebot3_ws/install/dynamixel_sdk/share/dynamixel_sdk/environment/path.dsv
+[6.061s] -- Up-to-date: /home/gabrielolin/turtlebot3_ws/install/dynamixel_sdk/share/dynamixel_sdk/local_setup.bash
+[6.061s] -- Up-to-date: /home/gabrielolin/turtlebot3_ws/install/dynamixel_sdk/share/dynamixel_sdk/local_setup.sh
+[6.061s] -- Up-to-date: /home/gabrielolin/turtlebot3_ws/install/dynamixel_sdk/share/dynamixel_sdk/local_setup.zsh
+[6.061s] -- Up-to-date: /home/gabrielolin/turtlebot3_ws/install/dynamixel_sdk/share/dynamixel_sdk/local_setup.dsv
+[6.061s] -- Installing: /home/gabrielolin/turtlebot3_ws/install/dynamixel_sdk/share/dynamixel_sdk/package.dsv
+[6.064s] -- Up-to-date: /home/gabrielolin/turtlebot3_ws/install/dynamixel_sdk/share/ament_index/resource_index/packages/dynamixel_sdk
+[6.064s] -- Up-to-date: /home/gabrielolin/turtlebot3_ws/install/dynamixel_sdk/share/dynamixel_sdk/cmake/ament_cmake_export_include_directories-extras.cmake
+[6.064s] -- Up-to-date: /home/gabrielolin/turtlebot3_ws/install/dynamixel_sdk/share/dynamixel_sdk/cmake/ament_cmake_export_libraries-extras.cmake
+[6.064s] -- Up-to-date: /home/gabrielolin/turtlebot3_ws/install/dynamixel_sdk/share/dynamixel_sdk/cmake/dynamixel_sdkConfig.cmake
+[6.064s] -- Up-to-date: /home/gabrielolin/turtlebot3_ws/install/dynamixel_sdk/share/dynamixel_sdk/cmake/dynamixel_sdkConfig-version.cmake
+[6.064s] -- Up-to-date: /home/gabrielolin/turtlebot3_ws/install/dynamixel_sdk/share/dynamixel_sdk/package.xml
+[6.085s] Invoked command in '/home/gabrielolin/turtlebot3_ws/build/dynamixel_sdk' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/gabrielolin/turtlebot3_ws/build/dynamixel_sdk

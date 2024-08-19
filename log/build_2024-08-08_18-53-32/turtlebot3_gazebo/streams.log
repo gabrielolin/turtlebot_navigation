@@ -1,0 +1,23 @@
+[0.153s] Invoking command in '/home/gabrielolin/turtlebot3_ws/build/turtlebot3_gazebo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/gabrielolin/turtlebot3_ws/build/turtlebot3_gazebo -- -j2 -l2
+[0.907s] [35m[1mConsolidate compiler generated dependencies of target turtlebot3_drive[0m
+[1.348s] [ 12%] [32mBuilding CXX object CMakeFiles/turtlebot3_drive.dir/src/turtlebot3_drive.cpp.o[0m
+[39.791s] [ 25%] [32m[1mLinking CXX executable turtlebot3_drive[0m
+[43.078s] [ 25%] Built target turtlebot3_drive
+[43.135s] [35m[1mConsolidate compiler generated dependencies of target obstacle1[0m
+[44.081s] [ 37%] [32mBuilding CXX object CMakeFiles/obstacle1.dir/models/turtlebot3_dqn_world/obstacle_plugin/obstacle1.cc.o[0m
+[85.106s] [ 50%] [32m[1mLinking CXX shared library libobstacle1.so[0m
+[85.982s] [ 50%] Built target obstacle1
+[86.109s] [35m[1mConsolidate compiler generated dependencies of target obstacle2[0m
+[86.651s] [ 62%] [32mBuilding CXX object CMakeFiles/obstacle2.dir/models/turtlebot3_dqn_world/obstacle_plugin/obstacle2.cc.o[0m
+[106.336s] [ 75%] [32m[1mLinking CXX shared library libobstacle2.so[0m
+[107.462s] [ 75%] Built target obstacle2
+[107.633s] [35m[1mConsolidate compiler generated dependencies of target obstacles[0m
+[107.859s] [ 87%] [32mBuilding CXX object CMakeFiles/obstacles.dir/models/turtlebot3_dqn_world/obstacle_plugin/obstacles.cc.o[0m
+[113.864s] gmake[2]: *** wait: No child processes.  Stop.
+[113.864s] gmake[2]: *** Waiting for unfinished jobs....
+[113.864s] gmake[2]: *** wait: No child processes.  Stop.
+[113.864s] gmake[1]: *** [CMakeFiles/Makefile2:221: CMakeFiles/obstacles.dir/all] Error 2
+[113.901s] gmake: *** wait: No child processes.  Stop.
+[113.901s] gmake: *** Waiting for unfinished jobs....
+[113.901s] gmake: *** wait: No child processes.  Stop.
+[113.992s] Invoked command in '/home/gabrielolin/turtlebot3_ws/build/turtlebot3_gazebo' returned '-2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/gabrielolin/turtlebot3_ws/build/turtlebot3_gazebo -- -j2 -l2

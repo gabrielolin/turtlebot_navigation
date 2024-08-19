@@ -1,0 +1,15 @@
+[0.267s] Invoking command in '/home/gabrielolin/turtlebot3_ws/build/turtlebot3_node': AMENT_PREFIX_PATH=/home/gabrielolin/turtlebot3_ws/install/turtlebot3_msgs:/home/gabrielolin/turtlebot3_ws/install/dynamixel_sdk:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/gabrielolin/turtlebot3_ws/install/turtlebot3_msgs:/home/gabrielolin/turtlebot3_ws/install/dynamixel_sdk:/opt/ros/humble LD_LIBRARY_PATH=/home/gabrielolin/turtlebot3_ws/install/turtlebot3_msgs/lib:/home/gabrielolin/turtlebot3_ws/install/dynamixel_sdk/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/gabrielolin/turtlebot3_ws/install/turtlebot3_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/gabrielolin/turtlebot3_ws/build/turtlebot3_node -- -j2 -l2
+[1.002s] [35m[1mConsolidate compiler generated dependencies of target turtlebot3_node_lib[0m
+[1.486s] [  7%] [32mBuilding CXX object CMakeFiles/turtlebot3_node_lib.dir/src/devices/motor_power.cpp.o[0m
+[16.512s] [ 14%] [32mBuilding CXX object CMakeFiles/turtlebot3_node_lib.dir/src/devices/sound.cpp.o[0m
+[24.502s] [ 21%] [32mBuilding CXX object CMakeFiles/turtlebot3_node_lib.dir/src/devices/reset.cpp.o[0m
+[35.533s] [ 28%] [32mBuilding CXX object CMakeFiles/turtlebot3_node_lib.dir/src/diff_drive_controller.cpp.o[0m
+[45.938s] [ 35%] [32mBuilding CXX object CMakeFiles/turtlebot3_node_lib.dir/src/dynamixel_sdk_wrapper.cpp.o[0m
+[48.005s] [ 42%] [32mBuilding CXX object CMakeFiles/turtlebot3_node_lib.dir/src/odometry.cpp.o[0m
+[77.693s] [ 50%] [32mBuilding CXX object CMakeFiles/turtlebot3_node_lib.dir/src/turtlebot3.cpp.o[0m
+[92.776s] gmake[2]: *** [CMakeFiles/turtlebot3_node_lib.dir/build.make:160: CMakeFiles/turtlebot3_node_lib.dir/src/turtlebot3.cpp.o] Interrupt
+[92.776s] gmake[1]: *** [CMakeFiles/Makefile2:139: CMakeFiles/turtlebot3_node_lib.dir/all] Interrupt
+[92.798s] gmake: *** wait: No child processes.  Stop.
+[92.806s] gmake: *** Waiting for unfinished jobs....
+[92.807s] gmake: *** wait: No child processes.  Stop.
+[93.160s] Invoked command in '/home/gabrielolin/turtlebot3_ws/build/turtlebot3_node' returned '-2': AMENT_PREFIX_PATH=/home/gabrielolin/turtlebot3_ws/install/turtlebot3_msgs:/home/gabrielolin/turtlebot3_ws/install/dynamixel_sdk:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/gabrielolin/turtlebot3_ws/install/turtlebot3_msgs:/home/gabrielolin/turtlebot3_ws/install/dynamixel_sdk:/opt/ros/humble LD_LIBRARY_PATH=/home/gabrielolin/turtlebot3_ws/install/turtlebot3_msgs/lib:/home/gabrielolin/turtlebot3_ws/install/dynamixel_sdk/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/gabrielolin/turtlebot3_ws/install/turtlebot3_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/gabrielolin/turtlebot3_ws/build/turtlebot3_node -- -j2 -l2

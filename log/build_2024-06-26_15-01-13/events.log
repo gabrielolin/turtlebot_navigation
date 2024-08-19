@@ -1,0 +1,18 @@
+[0.000000] (-) TimerEvent: {}
+[0.000101] (-) JobUnselected: {'identifier': 'autonomous_exploration'}
+[0.000126] (-) JobUnselected: {'identifier': 'dynamixel_sdk'}
+[0.000143] (-) JobUnselected: {'identifier': 'dynamixel_sdk_custom_interfaces'}
+[0.000158] (-) JobUnselected: {'identifier': 'dynamixel_sdk_examples'}
+[0.000172] (-) JobUnselected: {'identifier': 'turtlebot3'}
+[0.000186] (-) JobUnselected: {'identifier': 'turtlebot3_bringup'}
+[0.000200] (-) JobUnselected: {'identifier': 'turtlebot3_cartographer'}
+[0.000214] (-) JobUnselected: {'identifier': 'turtlebot3_description'}
+[0.000248] (-) JobUnselected: {'identifier': 'turtlebot3_example'}
+[0.000264] (-) JobUnselected: {'identifier': 'turtlebot3_fake_node'}
+[0.000294] (-) JobUnselected: {'identifier': 'turtlebot3_gazebo'}
+[0.000307] (-) JobUnselected: {'identifier': 'turtlebot3_msgs'}
+[0.000320] (-) JobUnselected: {'identifier': 'turtlebot3_navigation2'}
+[0.000334] (-) JobUnselected: {'identifier': 'turtlebot3_node'}
+[0.000347] (-) JobUnselected: {'identifier': 'turtlebot3_simulations'}
+[0.000360] (-) JobUnselected: {'identifier': 'turtlebot3_teleop'}
+[0.000374] (-) EventReactorShutdown: {}
